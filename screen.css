@@ -1,0 +1,28 @@
+@media only screen and (max-width: 1200px) {
+  
+  .titlu {
+    font-size: 2rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+  }
+}
+
+@media only screen and (max-width: 780px) {
+  
+  .titlu {
+    font-size: 1.2rem;
+    margin-top: 1.5rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  
+  .titlu {
+    font-size: 1rem;
+    margin-top: 6rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+  }
+}
